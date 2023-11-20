@@ -20,3 +20,6 @@ The aim is to predict whether students would upgrade their free plan to a paid o
 . scikit-learn
 . numpy
 . seaborn
+
+### project at 365 data science platform 
+https://learn.365datascience.com/projects/machine-learning-for-user-classification/
